@@ -6,7 +6,7 @@ Mini-projet PHP orienté objet réalisé en équipe.
 
 - Étudiant A : Yasmina-Elhnot 
 - Étudiant B :
-- Étudiant C :
+- Étudiant C :Insaf Hamdane
 
 ## Description
 
