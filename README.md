@@ -5,7 +5,7 @@ Mini-projet PHP orienté objet réalisé en équipe.
 ## Groupe
 
 - Étudiant A :
-- Étudiant B :
+- Étudiant B : frost_rvl
 - Étudiant C :
 
 ## Description
