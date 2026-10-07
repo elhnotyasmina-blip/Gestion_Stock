@@ -1,5 +1,6 @@
 <?php
 class Stock {
+    /** @var array<string, Produit> Produits indexés par référence */
     private array $produits = [];
 
     public function ajouter(Produit $p): void {
