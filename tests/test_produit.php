@@ -15,12 +15,14 @@ try {
     verifier(true, 'Un prix négatif lève une exception');
 }
 
+
 try {
     $p1->retirerQuantite(100);
     verifier(false, 'Retirer plus que le stock lève une exception');
 } catch (InvalidArgumentException $e2) {
     verifier(true, 'Retirer plus que le stock lève une exception');
 }
+
 
 try {
     $p1->ajouterQuantite(0);
