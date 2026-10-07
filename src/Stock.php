@@ -25,7 +25,7 @@ class Stock {
     public function valeurTotale(): float {
         $total = 0.0;
         foreach ($this->produits as $p) {
-            $total += $p->getprix();
+            $total += $p->valeurStock();
         }
         return $total;
     }
